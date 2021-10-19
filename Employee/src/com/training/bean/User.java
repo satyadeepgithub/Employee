@@ -22,6 +22,7 @@ public String getEmail() {
 public void setEmail(String email) {
 	this.email = email;
 }
+
 public User(int id, String name, String email) {
 	super();
 	this.id = id;
